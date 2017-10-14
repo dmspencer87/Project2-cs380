@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PhysLayerClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PhysLayerClient_jar</output-path>
+    <root id="archive" name="PhysLayerClient.jar">
+      <element id="module-output" name="PhysLayerClient" />
+    </root>
+  </artifact>
+</component>
